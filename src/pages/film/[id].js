@@ -1,5 +1,5 @@
 import Layout from "../../components/Layout/Layout";
-import styles from "./Film.module.css";
+import styles from "./film.module.css";
 
 const film = ({ film }) => {
 
